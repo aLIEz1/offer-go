@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/binary-tree/binary-tree.iml" filepath="$PROJECT_DIR$/binary-tree/binary-tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamic-programming/dynamic-programming.iml" filepath="$PROJECT_DIR$/dynamic-programming/dynamic-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graph/graph.iml" filepath="$PROJECT_DIR$/graph/graph.iml" />
       <module fileurl="file://$PROJECT_DIR$/hash/hash.iml" filepath="$PROJECT_DIR$/hash/hash.iml" />
       <module fileurl="file://$PROJECT_DIR$/linked-list/linked-list.iml" filepath="$PROJECT_DIR$/linked-list/linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/offer-go.iml" filepath="$PROJECT_DIR$/offer-go.iml" />
