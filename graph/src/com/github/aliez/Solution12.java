@@ -2,6 +2,7 @@ package com.github.aliez;
 
 /**
  * 12 矩阵中的路径
+ * 使用深度优先算法，当遇到不符的就剪枝操作
  *
  * @author Administrator
  * @date 2021/7/22 11:07
